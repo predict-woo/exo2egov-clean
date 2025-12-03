@@ -1,0 +1,4 @@
+*.pyc
+pretrained_weights/
+mlruns/
+outputs/
